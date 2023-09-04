@@ -1,0 +1,17 @@
+{
+    "name": "mub/blog",
+    "description": "Blog con entradas guardadas en archivos markdown o .md",
+    "autoload": {
+        "psr-4": {
+            "Mub\\Blog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mubpersonal5@gmail.com"
+        }
+    ],
+    "require": {
+        "league/commonmark": "^2.3"
+    }
+}
