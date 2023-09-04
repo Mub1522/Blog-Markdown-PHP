@@ -1,6 +1,7 @@
 # Página de Creación de Blog con archivos Markdown, PHP y Composer 🐘
 
-![php (2)](https://github.com/Mub1522/Advanced-PHP-practices/assets/105318645/6daef348-e1e2-4bc9-a7d7-f688ef82133d)      ![blogging](https://github.com/Mub1522/Blog-Markdown-PHP/assets/105318645/4b8c14cd-9249-45e4-94c9-e2622c3de705)
+![php (2)](https://github.com/Mub1522/Advanced-PHP-practices/assets/105318645/6daef348-e1e2-4bc9-a7d7-f688ef82133d)
+![blogging](https://github.com/Mub1522/Blog-Markdown-PHP/assets/105318645/4b8c14cd-9249-45e4-94c9-e2622c3de705)
 
 **Creditos**: Marcos Rivas R @vidamrr
 
