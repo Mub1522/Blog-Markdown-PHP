@@ -37,4 +37,4 @@
 
 5. Ten en cuenta que para editar la informacion de una entrada debes editar el archivo .md correspondiente directamente.
 
-¡Espero que encuentres útil este proyecto y que te ayude a comprender cómo construir un Blog con archivos Markdown, PHP y Composer! Siéntete libre de utilizar este código como referencia para tus propios proyectos. Frey 💗
+¡Espero que encuentres útil este proyecto y que te ayude a comprender cómo construir un Blog con archivos Markdown, PHP y Composer! Siéntete libre de utilizar este código como referencia para tus propios proyectos.
